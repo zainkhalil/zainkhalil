@@ -5,15 +5,14 @@
 - 📫 How to reach me khalilzain27@gmail.com
 
 
+<hr>
 
+<h4>INTERESTES</h4>
+<ul>
+  <li>Cybersecurity</li>
+  <li>Networking</li>
+  <li>Data Structures and Algorithms</li>
+  <li>Object Oriented Programming</li>
+</ul>
 
-
-
-
-
-
-
-<!---
-zainkhalil/zainkhalil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<hr>
