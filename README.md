@@ -14,6 +14,7 @@
   <li>Networking</li>
   <li>Data Structures and Algorithms</li>
   <li>Object Oriented Programming</li>
+  li> Databases/SQL </li>
   <li>Competitive Programming </li>
 </ul>
 
